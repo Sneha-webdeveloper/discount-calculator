@@ -29,7 +29,7 @@ setDiscountprice(0);
   return (
     <>
       
-<div className='body d-flex align-items-center justify-content-center ' style={{height:'1025px'}}>
+<div className='body d-flex align-items-center justify-content-center bg-light' style={{height:'740px'}}>
     <Row className='d-flex align-items-center justify-content-center  flex-lg-row  mx-auto  g-2 '>
     
     <Col  lg={6} xl={5} sm={4} md={4}  >
